@@ -1,6 +1,6 @@
 # spark_internship
 
-#Web & Mobile Development Tasks
+Web & Mobile Development Tasks
 
 Basic Banking System
 ◇ Create a simple dynamic website which has the following specs.
